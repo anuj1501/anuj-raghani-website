@@ -23,54 +23,38 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 
+  - certificate_url: https://coursera.org/share/c87bced453782be7e885028177cc594a
     date_end: ''
-    date_start: '2020-05-16'
+    date_start: '2021-01-25'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Sequence Models
-    url: 'https://coursera.org/share/0af2182dc649fd8661683393e3c420dd'
-  - certificate_url: 
+    title: Neural Networks and Deep Learning
+    url: ''
+  - certificate_url: https://coursera.org/share/80d805413641b130a59aab1328ff1048
     date_end: ''
-    date_start: '2020-04-06'
+    date_start: '2021-01-01'
     description: 
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Convolutional Neural Networks in Tensorflow
-    url: 'https://coursera.org/share/8e8fae2eda6f8fe03d663459c2db0bd4'
-  - certificate_url: 
-    date_end: ''
-    date_start: '2020-04-25'
-    description: 
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Natural Language Processing in Tensorflow
-    url: 'https://coursera.org/share/50aae2eaf4151d7dadb24c6368a729ca'
-  - certificate_url: 
-    date_end: '2020-05-29'
-    date_start: ''
+    title: Blockchain Fundamentals
+    url: 
+  - certificate_url: https://coursera.org/share/5643930f79b9a3567d8d7937a4ce6a96
+    date_end: '2021-02-21'
+    date_start: '2021-01-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
-    url: 'https://coursera.org/share/4879252e621c89ba42d6aa43b7a84ca4 '
+    title: 'Fundamentals of Reinforcement Learning'
+    url: ''
   - certificate_url: 
-    date_end: ''
-    date_start: ''
+    date_end: '2021-06-01'
+    date_start: '2021-01-01'
     description: ''
-    organization: Google
+    organization: IBM
     organization_url: 
-    title: '30 days of Google Cloud'
-    url: 'https://drive.google.com/file/d/1ipHFR2s8tdbQn432_UDXDeYSDGfA__AG/view?pli=1'
-  - certificate_url: 
-    date_end: ''
-    date_start: ''
-    description: ''
-    organization: KNIME
-    organization_url: 
-    title: 'Basic Proficiency in KNIME Analytics Platform'
-    url: 'https://www.credly.com/badges/5fc27e2c-9fb7-4e7d-8fd2-111055af1454/public_url'
+    title: 'Introduction to Quantum Computing'
+    url: 'https://www.ibm.com/quantum?utm_content=SRCWW&p1=Search&p4=43700071568483425&p5=p&gclid=CjwKCAjwnZaVBhA6EiwAVVyv9Dc1OBjAHqQMlJcGfocqP-WyEamN-bDk3F2znG16tTZ0XhxvXagEvRoCfBoQAvD_BwE&gclsrc=aw.ds'
 
 design:
   columns: '2'
