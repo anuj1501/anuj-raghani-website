@@ -6,12 +6,12 @@ title: Anuj Raghani
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer at Deutsche Bank
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Deutsche Bank
-    url: https://www.microsoft.com/en-us/research/group/prose/interns-research-fellows/
+    url: https://www.db.com/index?language_id=1&kid=sl.redirect-en.shortcut
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Program Synthesis, Formal Verification and Machine Learning.
