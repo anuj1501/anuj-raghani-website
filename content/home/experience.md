@@ -40,7 +40,7 @@ experience:
       * Currently working on exploring approaches to optimize search retrieval and benchmarking state-of- 
         the-art Transformer models to improve accuracy.
       * Key part of another tribe that looks into ITSM data sourcing and warehousing, aiding in improving the 
-        performance of data pull jobs
+        performance of data pull jobs.
       * Actively involved in the designing and implementation of web applications at scale for end users.
 
   - title: Data Science Intern
@@ -53,7 +53,7 @@ experience:
     description: >-
       * Worked thoroughly with an ecommerce client to create a recommendation engine with features like You May Also Like (YMAL) and 
         similar items. Tried various approaches and deployed jobs on Hadoop system for production usage.
-      * View my work of recommendation engine here: https://odette.in/ 
+      * View my work of recommendation engine here: https://odette.in/.
       * Researched on creating customer embeddings to understand and model their behavior and successfully improved the performance of the
         recommendations.
 
@@ -66,7 +66,7 @@ experience:
     date_end: '2021-07-21'
     description: >-
       * Worked as a part of Equities Business Unit and implemented an ETL Pipeline to fetch configuration 
-        details of various micro services hosted on different servers
+        details of various micro services hosted on different servers.
       * Also contributed in creating a client simulator which mimics orders placed by clients and helps QA 
         team understand the fixes required in the latest OMS releases.
 
@@ -80,8 +80,8 @@ experience:
     description: >-
       * Focused on optimizing the accuracy-latency tradeoff to enhance the performance of their LLM API 
         service, a critical tool used by financial firms to detect anomalous transactions. 
-      * Worked on novel SOTA techniques to reduce the training time of models and the inference time. 
-        Explored techniques like TensorRT, training on multiple GPUs, Mixed precision training (FP16).
+      * Worked on novel SOTA techniques to reduce the training time of models and the inference time and
+        explored techniques like TensorRT, training on multiple GPUs, Mixed precision training (FP16).
       * Used Pytorch framework and pushed the final code into their research repositories.
   
   - title: Undergraduate Researcher
@@ -95,7 +95,7 @@ experience:
       * Pursuing a thorough research on dynamic computation offloading of IOT devices in FOG Network 
         using deep reinforcement learning under Dr. Arani Bhattacharya. 
       * Conducted thorough literature surveys, analyzed and experimented with existing approaches and built 
-        a framework for simulating this ecosystem
+        a framework for simulating this ecosystem.
 design:
   columns: '2'
 ---
