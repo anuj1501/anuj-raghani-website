@@ -23,38 +23,39 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://coursera.org/share/c87bced453782be7e885028177cc594a
+  - certificate_url: 'https://coursera.org/share/0af2182dc649fd8661683393e3c420dd'
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2020-05-16'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Sequence Models
     url: ''
-  - certificate_url: https://coursera.org/share/80d805413641b130a59aab1328ff1048
+  - certificate_url: 'https://coursera.org/share/8e8fae2eda6f8fe03d663459c2db0bd4' 
     date_end: ''
-    date_start: '2021-01-01'
+    date_start: '2020-04-06'
     description: 
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Blockchain Fundamentals
-    url: 
-  - certificate_url: https://coursera.org/share/5643930f79b9a3567d8d7937a4ce6a96
-    date_end: '2021-02-21'
-    date_start: '2021-01-01'
+    title: Convolutional Neural Networks in Tensorflow
+    url: ''
+  - certificate_url: 'https://coursera.org/share/50aae2eaf4151d7dadb24c6368a729ca' 
+    date_end: ''
+    date_start: '2020-04-25'
+    description: 
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Natural Language Processing in Tensorflow
+    url: ''
+  - certificate_url: 'https://coursera.org/share/4879252e621c89ba42d6aa43b7a84ca4'
+    date_end: ''
+    date_start: '2020-05-29'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: 'Fundamentals of Reinforcement Learning'
+    title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
     url: ''
-  - certificate_url: 
-    date_end: '2021-06-01'
-    date_start: '2021-01-01'
-    description: ''
-    organization: IBM
-    organization_url: 
-    title: 'Introduction to Quantum Computing'
-    url: 'https://www.ibm.com/quantum?utm_content=SRCWW&p1=Search&p4=43700071568483425&p5=p&gclid=CjwKCAjwnZaVBhA6EiwAVVyv9Dc1OBjAHqQMlJcGfocqP-WyEamN-bDk3F2znG16tTZ0XhxvXagEvRoCfBoQAvD_BwE&gclsrc=aw.ds'
+
 
 design:
   columns: '2'
