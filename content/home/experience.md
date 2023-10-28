@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Software Engineer
     company: Deutsche Bank
-    company_url: ''
+    company_url: 'https://www.db.com'
     company_logo: Deutsche
     location: India
     date_start: '2022-07-18'
@@ -48,8 +48,8 @@ experience:
     company_url: 'https://www.argoid.ai/'
     company_logo: Argoid
     location: India
-    date_start: '2021-12-15'
-    date_end: '2021-09-01'
+    date_start: '2021-09-01'
+    date_end: '2021-12-15'
     description: >-
       * Worked thoroughly with an ecommerce client to create a recommendation engine with features like You May Also Like (YMAL) and 
         similar items. Tried various approaches and deployed jobs on Hadoop system for production usage.
@@ -58,7 +58,7 @@ experience:
 
   - title: Summer Analyst
     company: Citi Bank
-    company_url: ''
+    company_url: 'https://www.citigroup.com/global'
     company_logo: Citi
     location: India
     date_start: '2021-05-17'
@@ -71,11 +71,11 @@ experience:
 
   - title: Research Engineer Intern
     company: Spherical Defence
-    company_url: ''
+    company_url: 'https://sphericaldefence.com/'
     company_logo: SD
     location: Remote
-    date_start: '2021-05-15'
-    date_end: '2021-02-01'
+    date_start: '2021-02-01'
+    date_end: '2021-05-15'
     description: >-
       * Focused on optimizing the accuracy-latency tradeoff to enhance the performance of their LLM API 
         service, a critical tool used by financial firms to detect anomalous transactions. 
@@ -85,7 +85,7 @@ experience:
   
   - title: Undergraduate Researcher
     company: Indrapasth Institue of Information Technology (IIIT Delhi)
-    company_url: ''
+    company_url: 'https://iiitd.ac.in/'
     company_logo: iiitd
     location: Remote
     date_start: '2020-12-01'
