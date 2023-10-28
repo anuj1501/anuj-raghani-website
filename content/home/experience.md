@@ -53,9 +53,8 @@ experience:
     description: >-
       * Worked thoroughly with an ecommerce client to create a recommendation engine with features like You May Also Like (YMAL) and 
         similar items. Tried various approaches and deployed jobs on Hadoop system for production usage.
-      * View my work of recommendation engine here: https://odette.in/.
-      * Researched on creating customer embeddings to understand and model their behavior and successfully improved the performance of the
-        recommendations.
+      * View my work of recommendation engine here: https://odette.in/. Researched on creating customer embeddings to
+        understand and model their behavior and successfully improved the performance of the recommendations.
 
   - title: Summer Analyst
     company: Citi Bank
