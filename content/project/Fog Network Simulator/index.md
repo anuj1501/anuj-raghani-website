@@ -1,6 +1,6 @@
 ---
 title: Dynamic computation offloading using deep reinforcment learning
-summary: Fog network simular to run experiments in deep reinforcement learning
+summary: Fog network simulator to run experiments in deep reinforcement learning
 tags:
   - Deep Learning
 date: ''
