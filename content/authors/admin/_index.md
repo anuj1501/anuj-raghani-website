@@ -62,7 +62,7 @@ social:
 highlight_name: true
 ---
 
-Anuj is a Software Engineer at Deutsche Bank, working with the Data Analysis Research and Execution team (DARE), based out of London and Frankfurt. He has contributed to developing an AI search engine that extracts semantic insights from incident descriptions and recommends solutions from past resolved incident tickets, improving the bank’s operational resilience. Currently He is working on exploring approaches to optimize search retrieval and benchmarking state-of- the-art Transformer models to improve accuracy.
+Anuj is a Software Engineer at Deutsche Bank, working with the Data Analysis Research and Execution team (DARE), based out of London and Frankfurt. He has contributed to developing an AI search engine that extracts semantic insights from incident descriptions and recommends solutions from past resolved tickets, improving the bank’s operational resilience. Currently He is working on exploring approaches to optimize information retrieval and benchmarking state-of- the-art Transformer models to improve accuracy.
 He has a bachelor's degree from [Veermata Jijabai Technological Institute (V.J.T.I.)](https://vjti.ac.in) in Information Technology.
 
 Outside of work, Anuj loves watching football and binging web series.
