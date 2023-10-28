@@ -55,7 +55,22 @@ item:
     organization_url: https://www.coursera.org
     title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
     url: ''
-
+  - certificate_url: 'https://drive.google.com/file/d/1ipHFR2s8tdbQn432_UDXDeYSDGfA__AG/view?pli=1'
+    date_end: ''
+    date_start: '2020-11-01'
+    description: ''
+    organization: Google
+    organization_url: 
+    title: '30 days of Google Cloud'
+    url:
+  - certificate_url: 'https://www.credly.com/badges/5fc27e2c-9fb7-4e7d-8fd2-111055af1454/public_url'
+    date_end: ''
+    date_start: '2023-06-01'
+    description: ''
+    organization: KNIME
+    organization_url: 
+    title: 'Basic Proficiency in KNIME Analytics Platform'
+    url: 
 
 design:
   columns: '2'
