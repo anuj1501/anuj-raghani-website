@@ -66,7 +66,7 @@ Having "explored" various fields in Machine Learning, now I am ready to "exploit
 In the past, I have worked as researcher under the advice of Prof. Arani Bhattacharya (IIIT Delhi) 
 and Prof, Dhiren Patel (Ex-Director VJTI). I have experience of working with start-ups on various use cases of AI.
 Currently, working as Software Engineer at Deutsche Bank, leveraging advances in natural language processing to 
-improve the operation resilience of IT services. He has a bachelor's degree from [Veermata Jijabai Technological Institute (V.J.T.I.)](https://vjti.ac.in) in Information Technology.
+improve the operation resilience of IT services. I have a bachelor's degree from [Veermata Jijabai Technological Institute (V.J.T.I.)](https://vjti.ac.in) in Information Technology.
 
 Outside of work, Anuj loves watching football and binging web series.
 
